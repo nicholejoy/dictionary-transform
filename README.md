@@ -11,7 +11,7 @@ Mongodb listening on port 27017
 ### Example usage
 
 #### Using nested_dict.py:
-cat ../test/test_input.json |  python nested_dict.py currency country
+cat ../test/test_input.json |  python dictionary_transform.py currency country
 
 
 #### API usage: 
